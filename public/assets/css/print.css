@@ -1,0 +1,6 @@
+body {transform: scale(.7);}
+table {page-break-inside: avoid;}
+
+.table-responsive {
+    margin-top: 100px;
+}
